@@ -1,1 +1,3 @@
-# rails-blog
+# Rails-Blog
+
+Un exercice pour montrer comment faire une base de données, avec un exercice d'un blog. Comme tu te dis "j'aimerais bien m'entrainer à faire des bases de données à partir de rien", et bien nous allons te donner cette opportunité. Dans une première partie, tu iras designer la base de données en mode tableau. Puis dans une seconde partie nous t'accompagnerons dans l'implémentation de cette base de données dans rails.
