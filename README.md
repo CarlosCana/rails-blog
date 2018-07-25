@@ -1,3 +1,24 @@
-# Rails-Blog
+# README
 
-Un exercice pour montrer comment faire une base de données, avec un exercice d'un blog. Comme tu te dis "j'aimerais bien m'entrainer à faire des bases de données à partir de rien", et bien nous allons te donner cette opportunité. Dans une première partie, tu iras designer la base de données en mode tableau. Puis dans une seconde partie nous t'accompagnerons dans l'implémentation de cette base de données dans rails.
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
